@@ -1,9 +1,9 @@
 {
   "name": "waypoints",
-  "version": "3.1.2",
+  "version": "3.1.4",
   "repository": "factorial-io/waypoints",
   "description": "Easily execute a function when you scroll to an element.",
   "scripts": [
-    "lib/noframework.waypoints.js.js"
+    "lib/noframework.waypoints.js"
   ]
 }
