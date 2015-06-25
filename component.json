@@ -4,7 +4,6 @@
   "repository": "factorial-io/waypoints",
   "description": "Easily execute a function when you scroll to an element.",
   "scripts": [
-    "lib/jquery.waypoints.js",
-    "lib/shortcuts/sticky.js"
+    "lib/noframework.waypoints.js.js"
   ]
 }
